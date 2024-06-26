@@ -1,0 +1,88 @@
+<html>
+
+<font size="5">  
+     Virtual Observatories and data handling. Retrieve your favorite data. 
+</font>     
+
+
+<br>
+ <br><li>Very powerful retrival, but interactive     
+<a href="https://www.star.bris.ac.uk/~mbt/topcat/sun253/sun253.html">TOPCAT </a>.
+It uses Xmatch crosscorrelator available at cds. Fast on a million star.
+<a href="https://wiki.ivoa.net/internal/IVOA/InterOpOct2014Applications/upxmatch.pdf">Xmatch info </a>.
+<br>
+<a href="https://svo.cab.inta-csic.es/files/svo/Public/Meetings/SVO_thematic_network/Decimosexta_Escuela/Tutorial_gaia_topcat_stilts_granada2020_mar3b.pdf">Exploring Gaia data with TOPCAT and STILTS</a>
+<br>
+
+<br>
+<li> STILTS: Fast on a million star, but it cannot be run inside python (unless you use the java version)
+<a href="https://wiki.ivoa.net/internal/IVOA/InterOpOct2014Applications/upxmatch.pdf">Xmatch info </a>.
+<p  style="padding: 10px; border: 2px solid red; font-size= 20px">
+stilts cdsskymatch cdstable=II/246/out find=all in=/Users/mmessine/DUTY/SYNTH_MICHELE/DES_Mary/Y6A1_finsel_DR3_wXPSP.fits ra=RA dec=DEC radius=1.5 icmd=progress blocksize=500000 out=qso_2mass.vot
+</p>
+<br>
+
+
+<br>
+<li> PYTHON query: Build your query using vizier or other servers and astroquery      
+<br><a href="https://prappleizer.github.io/textbook.pdf">Python for astronomers </a>
+<br><a href="https://mpags-python.github.io/assets/slides/2021/Python-7.pdf">Python for astronomers:Astropy</a>
+
+<br>
+<a href="https://docs.astropy.org/en/stable/">Astropy </a>
+<br>
+<a href="https://astroquery.readthedocs.io/en/latest/"> astroquery </a>.
+To crossmatch uses also Xmatch (XMatch.query). It cannot handle a million star.
+<br>
+
+
+<br>
+<li> Specific GAIA servers for API query
+<a href="./gaiaRETRIEVE1.html">Gaia API </a>.
+<br>
+<br>
+
+<br>
+<li> <a href="https://github.com/bersavosh/TAP_notes/blob/master/README.md">tap notes</a>.
+<li> <a href="https://cds.unistra.fr/help/documentation/vizier-more/adql-vizier/#working-with-several-tables">VizieR ADQL examples</a>.
+<br>
+<br>
+
+<li><a href="https://dc.g-vo.org/VOTT">OTHER EXAMPLE OF ARCHIVAL USE </a>CAN BE FOUND AT 
+VOTT: Virtual Observatory Text Treasures
+<br>
+<a href="https://www.g-vo.org/tutorials/pleiades.pdf">Explore the Pleiades with TOPCAT
+and Aladin</a>
+<br>
+<br>
+<li>MY EXAMPLE:
+<a href="astroquery_messineo_v3.py">astroquery_messineo_v3.py </a>
+<br>
+This macro reads the name of a Vizier Catalog (assumed to be IR)
+<br> find the 2MASS matches
+<br> find the corresponding Gaia Dr3 source_id
+<br> check and plot the BP-RP spectra
+<br> outputs: eps figures, one per spectrum.
+<br> IT IS a SYNCRON. JOB FOR SMALL TABLES. IN ORDER TO USE YOU MUST TEPLACE THE "user_mmessi01" user account name,
+AND YOU MUST HAVE An ESA/ARCHIVE USER ACCOUNT AND PASSWORD.
+<br> 
+
+
+<li>BPRP-Datalink:
+<a href="datalink_BPRP.py">datalink_BPRP.py </a>
+<br> Attention: not all BPRP spectra are given in the SAMPLED.
+<br> Given a list of Gaia DR3 source_IDs,
+<br> it retrieves available SAMPLED BPRP spectra.
+<br> The spectra (one per source_IDs) are saved individually in cvs file and
+<br> also an alltogheter.DTL.csv file (unique) is generated.
+<br> Note that the macro is made by two parts: comment one or the other if you want the alltoghether or the
+<br> individual file.
+<br> Also note that for the bulk retrieval you need an account and password. 
+<br> For the individual retrieval it is not needed (free access).
+
+<li>BPRP-make your own sampling with GaiaXpy:
+<a href="defaultsampling_BPRP.py">defaultsampling_BPRP.py </a>
+<br> Given a list of Gaia DR3 source_IDs,
+<br> it retrieves available continous BPRP spectra and resample them.
+
+</html>
