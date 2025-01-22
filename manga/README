@@ -1,0 +1,18 @@
+
+python code extract_v2.py					
+
+CALSPEC-resultCOORDn.csv                      input file with CALSPEC_Gaia_source_id			
+mastarall-v3_1_1-v1_7_7_goodstars_inDR3.fits  input file with Mastar and Gaia source_id 
+mastar-goodspec-v3_1_1-v1_7_7.fits            spectra
+
+output
+list of retrieved object: calspec_sdss_sp.csv
+list of extracted spectra and their tables:
+60-1638563322306634368_0.eps
+60-1638563322306634368_0.csv
+60-3302846072717868416_0.eps
+60-3302846072717868416_0.csv
+60-3302846072717868416_1.eps
+60-3302846072717868416_1.csv
+60-3302846072717868416_2.eps
+60-3302846072717868416_2.csv
