@@ -35,7 +35,6 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            4201781696994073472     290.145238     -7.667404 0    calspec 9       none 9       none 0       SPSS 9       none 9       none 9       none 9       none 9       none       none
            1686708050268594944     204.705028     70.285347 0    calspec 9       none 9       none 0       SPSS 9       none 9       none 9       none 9       none 9       none       none
            5040300909638155520      22.194022    -24.340477 1    calspec 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none        PVL
-           5040300909638155520      22.194022    -24.340477 1    calspec 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none        PVL
            4881345510044485120      73.042113    -27.064268 1    calspec 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none        PVL
            5709390701922940416     130.213308    -16.347294 0    calspec 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none        PVL
            5384905720847544192     175.056683    -39.146669 1    calspec 9       none 9       none 9       none 9       none 9       none 9       none 9       none 9       none       none
@@ -156,7 +155,6 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
             300268314784686464      32.603678     29.805388 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 1      MILES 9       none       none
            1284721994948665216     215.485172     29.628245 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            1275876252107941888     226.724356     30.010227 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
-           1275876252107941888     226.724356     30.010227 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            2096185937305282048     278.083623     36.998767 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
             946948827441088000     105.770109     38.141124 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            2101486923385239808     289.752850     41.631796 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
@@ -176,7 +174,6 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            5762455439477309440     134.793671     -4.029399 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
            1011379899590855936     137.700366     46.375884 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            3920615854833203328     183.004707     13.259330 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 1      MILES 0     STELIB       none
-           3699954179060804864     186.395513      1.281864 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 1      MILES 0     STELIB       none
            3699954179060804864     186.395513      1.281864 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 1      MILES 0     STELIB       none
            4565784161044390656     252.547068     22.312266 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            2722849325377392384     334.653381      8.445369 9       none 9       none 0       NGSL 9       none 9       none 1        xsl 9       none 9       none 9       none       none
@@ -217,9 +214,6 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            2337055983958595840       3.440184    -23.215112 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            2430102808294101760       4.676323     -8.053641 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
            2317057722875195904       5.118059    -30.555583 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           2317057722875195904       5.118059    -30.555583 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           2317057722875195904       5.118059    -30.555583 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           2317057722875195904       5.118059    -30.555583 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
             421805237748755968       7.689703     57.064609 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
            2527043140743265664       7.974092     -5.262199 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 1      MILES 0     STELIB       none
             418062809410500224       8.198614     54.119790 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
@@ -242,7 +236,6 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
             560130775546153344      20.495635     76.710143 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
             531667443164972416      21.484314     68.130131 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            2455241320597417856      21.405341    -14.598866 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
-           2593188145361730432      21.573557     17.126085 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            2593188145361730432      21.573557     17.126085 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
             348020482735930112      24.198321     41.403762 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
            2562091860584132096      25.357788      5.487627 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
@@ -341,7 +334,6 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
             865962683591073408     111.707897     21.535562 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 0     STELIB       none
            5618683092877834368     112.464204    -23.024272 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 1      MILES 9       none       none
            3169175179954291968     113.646313     16.899804 9       none 9       none 1       NGSL 9       none 9       none 1        xsl 9       none 9       none 9       none       none
-           3057302723688977536     114.319245     -4.110906 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 0      MILES 0     STELIB       none
            3057302723688977536     114.319245     -4.110906 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 0      MILES 0     STELIB       none
             867070063597368064     115.243793     23.018474 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
            5613806071620843392     115.700619    -26.351460 9       none 9       none 1       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
@@ -478,7 +470,6 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            1273423791421021568     231.956281     29.106104 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
            1274286186493145728     233.232316     31.359078 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            4402244244636634240     233.570071     -2.724718 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
-           4402244244636634240     233.570071     -2.724718 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            1197801408889764480     235.477697     18.464278 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4423865487962417024     236.007389      2.514559 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            4426032591025363200     237.704589      4.478007 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
@@ -539,15 +530,11 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            4266584541504540928     282.405032      0.836125 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            2093536183004234752     282.902152     36.539085 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
            4279028985902356096     283.282635      1.755554 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           4279028985902356096     283.282635      1.755554 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           4279028985902356096     283.282635      1.755554 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4100872505552406784     283.679630    -15.603067 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            2268048503896398720     281.782240     74.725757 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 1      MILES 0     STELIB       none
            4265363121612814720     283.964465     -0.739915 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4264967400467007232     284.094404     -1.799948 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 0      MILES 0     STELIB       none
-           4264967400467007232     284.094404     -1.799948 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 0      MILES 0     STELIB       none
            6662114164434611712     284.720810    -48.505923 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
-           4268663477469514496     284.242065      2.461635 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4268663477469514496     284.242065      2.461635 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            2106630885454013184     283.833884     43.946451 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
            4506321713245405184     284.695518     13.906441 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
@@ -571,7 +558,6 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            2073743839843579776     297.655510     40.599724 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
            2027951173435143680     297.878764     27.460206 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
            1820374029621976704     298.441377     16.778108 9       none 9       none 0       NGSL 9       none 9       none 1        xsl 9       none 9       none 9       none       none
-           1820374029621976704     298.441377     16.778108 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4303364682926575744     298.790152     10.742236 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 1      MILES 0     STELIB       none
            2075067858006232320     299.509968     40.926915 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            1807953155988203264     300.641581     15.589489 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
@@ -579,8 +565,6 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            2029433521248546304     300.909357     29.894468 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
            4190636669164572928     301.272544    -11.599485 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
            1833199729671740800     300.962336     23.336629 9       none 9       none 0       NGSL 9       none 9       none 1        xsl 9       none 1      MILES 9       none       none
-           1833199729671740800     300.962336     23.336629 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
-           1833199729671740800     300.962336     23.336629 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
            2059103120983068160     301.589462     35.970513 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
            2237963804179250176     301.388159     61.995734 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            4224259562941398400     303.499078     -0.865721 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
@@ -589,41 +573,31 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            6875990375999580544     305.252980    -14.781406 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            2246581329639103872     304.385833     66.855012 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            6905364821265383424     305.753402     -9.654784 9       none 9       none 0       NGSL 9       none 9       none 1        xsl 9       none 9       none 9       none       none
-           6905364821265383424     305.753402     -9.654784 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            2067518817314952576     305.557108     40.256674 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 0     STELIB       none
            4246840611198113024     306.355960      6.641793 9       none 9       none 0       NGSL 9       none 9       none 1        xsl 9       none 9       none 9       none       none
-           4246840611198113024     306.355960      6.641793 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4245659976227848704     307.807468      5.220290 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            4233114892151395712     308.928002      3.302591 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           4231133434759619200     309.326610      0.096904 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4231133434759619200     309.326610      0.096904 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            6863409385992156800     309.818004    -14.954863 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            1756079606122005248     309.683291     13.315127 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            6858374206854249728     310.205963    -18.794489 9       none 9       none 1       NGSL 9       none 9       none 1        xsl 9       none 9       none 9       none       none
-           6858374206854249728     310.205963    -18.794489 9       none 9       none 1       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            1863091877405053184     310.260609     32.307239 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
            1763000413344449792     311.664442     16.123416 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
            1845660598015820800     313.031660     27.096693 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            6916198691587462272     315.343403     -2.514042 9       none 9       none 0       NGSL 9       none 9       none 1        xsl 9       none 9       none 9       none       none
-           6916198691587462272     315.343403     -2.514042 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            2162316545207257600     316.232812     43.927857 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
            1872046609345556480     316.748479     38.763862 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
            2689931630869716096     317.316989     -0.234940 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            1744662586614707072     317.585622     10.130905 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
            6829361221730142848     321.039935    -20.852438 9       none 9       none 1       NGSL 9       none 9       none 9       none 9       none 1      MILES 9       none       none
            2688034762857131136     321.465157      0.534407 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
-           2688034762857131136     321.465157      0.534407 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
            2699301565882761344     321.679512      5.440544 9       none 9       none 0       NGSL 9       none 9       none 1        xsl 9       none 1      MILES 9       none       none
-           2699301565882761344     321.679512      5.440544 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
            2672702897842335872     322.367546     -3.515585 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
            1797346167298274304     322.487179     23.638856 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            2671038928727970944     322.889803     -5.571211 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            1850440690450639232     323.262621     30.359776 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           1850440690450639232     323.262621     30.359776 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            2701125861831057792     324.432122      6.618382 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            1772187382746856320     326.131604     14.771437 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
-           1792900051510535296     326.734467     21.297400 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
-           1792900051510535296     326.734467     21.297400 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
            1792900051510535296     326.734467     21.297400 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
            1979339496603106432     327.980674     48.437146 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            2683023811628007296     330.540802      1.398992 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
@@ -652,7 +626,6 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            2432369829471667200     354.414992    -13.060124 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
            2281778105594488192     354.835781     77.633125 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
             386569051169184384       0.181922     45.253338 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
-           2448177130188111232       0.456114     -3.027549 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            2448177130188111232       0.456114     -3.027549 9       none 9       none 0       NGSL 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4321939179572488960     294.550341     16.806974 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 0      MILES 9       none       none
             272855565763652480      69.422784     52.891503 9       none 9       none 0       NGSL 9       none 9       none 9       none 9       none 9       none 9       none       none
@@ -1015,7 +988,6 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            6210376582348019456     233.655550    -28.047163 9       none 9       none 9       none 9       none 0       UVES 9       none 9       none 9       none 9       none       none
            6316829270922140032     233.545980    -10.065575 9       none 9       none 9       none 9       none 0       UVES 9       none 9       none 9       none 9       none       none
            6268770373590148224     235.757860    -10.934848 9       none 9       none 9       none 9       none 0       UVES 0        xsl 9       none 0      MILES 9       none       none
-           6268770373590148224     235.757860    -10.934848 9       none 9       none 9       none 9       none 0       UVES 0        xsl 9       none 0      MILES 9       none       none
            4429785739602747392     236.067570      6.425833 9       none 9       none 9       none 9       none 0       UVES 9       none 9       none 9       none 9       none       none
            6009538585839374336     236.868910    -37.917263 9       none 9       none 9       none 9       none 0       UVES 9       none 9       none 9       none 9       none       none
            1195823284391343104     236.547200     15.421607 9       none 9       none 9       none 9       none 0       UVES 9       none 9       none 9       none 9       none       none
@@ -1077,7 +1049,6 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            4040799485267855232     268.347780    -34.895188 9       none 9       none 9       none 9       none 0       UVES 9       none 9       none 9       none 9       none       none
            4040838380456117888     268.371580    -34.691830 9       none 9       none 9       none 9       none 0       UVES 9       none 9       none 9       none 9       none       none
            4040801031403875456     268.395280    -34.865353 9       none 9       none 9       none 9       none 0       UVES 9       none 9       none 9       none 9       none       none
-           4040825358109531520     268.439600    -34.786056 9       none 9       none 9       none 9       none 0       UVES 9       none 9       none 9       none 9       none       none
            4040825358109531520     268.439600    -34.786056 9       none 9       none 9       none 9       none 0       UVES 9       none 9       none 9       none 9       none       none
            4040800722166107136     268.445840    -34.846379 9       none 9       none 9       none 9       none 0       UVES 9       none 9       none 9       none 9       none       none
            4063703377509158656     268.392690    -27.282630 9       none 9       none 9       none 9       none 0       UVES 9       none 9       none 9       none 9       none       none
@@ -1195,32 +1166,21 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            6734782434130689024     278.824949    -34.469301 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4387079367952007168     260.278671      1.444249 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 1      MILES 0     STELIB       none
            6734635821123930368     278.868154    -34.735723 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           6734635821123930368     278.868154    -34.735723 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4050203741234555392     270.904833    -29.906333 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4050202886598183168     270.868483    -29.978260 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            1841916486040590080     317.496746     26.615406 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           1841916486040590080     317.496746     26.615406 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           2506906787870475904      31.891694     -0.618951 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            2506906787870475904      31.891694     -0.618951 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            4651961099314703232      77.737650    -71.192836 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4308878561939677824     288.473266      9.033179 9       none 9       none 9       none 9       none 9       none 1        xsl 9       none 9       none 9       none       none
-           4308878561939677824     288.473266      9.033179 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            2830267660041706752     342.717503     18.002171 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
-           2830267660041706752     342.717503     18.002171 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
-           2635543704085589504     345.990067     -4.794694 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            2635543704085589504     345.990067     -4.794694 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4651957216664541184      78.302884    -71.300162 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4358758216162768000     245.662058     -2.079896 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4093279759336089856     278.054614    -19.124003 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            5676959889203060096     144.083052    -20.887515 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            6083695761740022144     201.488518    -47.673421 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           6083695761740022144     201.488518    -47.673421 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           6045460111755316736     245.905852    -26.640082 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            6045460111755316736     245.905852    -26.640082 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            6045465987271055232     245.862214    -26.525463 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           6045465987271055232     245.862214    -26.525463 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           6045465987271055232     245.862214    -26.525463 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           5949553973093167104     261.208613    -49.948932 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            5949553973093167104     261.208613    -49.948932 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4331831966671986560     245.861422    -11.595135 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
            5805105976563238144     258.137105    -70.085741 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
@@ -1245,13 +1205,9 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            1821609021711481728     298.453086     18.788175 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            1235563517265388928     218.056131     17.422965 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            1262035427936249728     226.814360     22.564194 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
-           1262035427936249728     226.814360     22.564194 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
-           4050199996022387072     270.915006    -29.973288 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4050199996022387072     270.915006    -29.973288 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4050198351112514560     270.865266    -30.015740 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            1821608471955735296     298.406121     18.749901 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
-           1821608471955735296     298.406121     18.749901 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
-           1821607608629456512     298.475795     18.759073 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            1821607608629456512     298.475795     18.759073 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            1283756555019878528     216.726055     28.588330 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
            1164574545451579520     232.731109      8.579078 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 0     STELIB       none
@@ -1265,8 +1221,6 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            4048839320356942720     272.381607    -31.844369 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            6614285855300051840     337.314618    -30.022017 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            6891134705556330880     322.516126    -12.511222 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
-           6891134705556330880     322.516126    -12.511222 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
-           2686137834717137792     319.681184     -1.534437 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            2686137834717137792     319.681184     -1.534437 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            1733244570676906880     316.770615      5.443454 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            1736838805468812160     316.332627      7.066792 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
@@ -1276,7 +1230,6 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            2595112909185720192     339.026833    -16.388070 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            2611218796027486336     342.629212     -6.914237 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            1777026848817076352     333.583507     18.020358 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
-           2582106305105033216      11.871768      9.982244 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
            2582106305105033216      11.871768      9.982244 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
            4158615798208505472     272.419071     -8.780178 9       none 9       none 9       none 9       none 9       none 1        xsl 9       none 0      MILES 9       none       none
            4254242042483556096     285.600803     -5.546697 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
@@ -1295,8 +1248,6 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            4211227150402501632     288.842955     -6.049718 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4292688321964796800     291.921286      4.709756 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            6858449008002621312     312.236802    -19.019218 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           6858449008002621312     312.236802    -19.019218 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           6858449008002621312     312.236802    -19.019218 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4273225145054713984     277.318662      0.323037 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4240746602368593664     300.091851      1.698201 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4243275719623780608     304.753006      2.233408 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
@@ -1305,13 +1256,8 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            2681306546265329920     327.915794      0.849084 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4500356450325206272     265.841770     14.295297 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            1821609021711485696     298.450057     18.785732 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
-           1821609021711485696     298.450057     18.785732 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
-           1821620424811789568     298.404909     18.788939 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            1821620424811789568     298.404909     18.788939 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            6888560851915102464     314.037973    -13.521956 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           4455529017661900160     237.318701      9.611515 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           4455529017661900160     237.318701      9.611515 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           4455529017661900160     237.318701      9.611515 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4455529017661900160     237.318701      9.611515 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4687246145432125824      17.622758    -72.826279 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            4687250268600675712      17.324532    -72.761692 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
@@ -1348,7 +1294,6 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            3110816328271307520     110.618171      0.700612 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
             876370076542359936     120.133009     29.207177 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 0     STELIB       none
            3145978027229218176     121.352385      8.199566 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-            604911375882674560     132.822807     11.756296 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
             604911375882674560     132.822807     11.756296 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
             628852004626257152     153.623280     21.167713 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            2984998873403435008      80.587506    -14.397330 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
@@ -1414,23 +1359,13 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            1821608437595882496     298.454367     18.766741 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            1821609223559201792     298.460988     18.818747 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            1821609090431005696     298.444013     18.795617 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
-           1821609090431005696     298.444013     18.795617 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
-           4076713963010158336     279.031180    -24.436462 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
-           4076713963010158336     279.031180    -24.436462 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            4076713963010158336     279.031180    -24.436462 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            1821608639421563136     298.438538     18.782051 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           1821608639421563136     298.438538     18.782051 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           1821608639421563136     298.438538     18.782051 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            6833229746017792128     317.173100    -19.995855 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           6833229746017792128     317.173100    -19.995855 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           6833229746017792128     317.173100    -19.995855 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           2699538613717163136     324.308635      5.851353 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           2699538613717163136     324.308635      5.851353 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            2699538613717163136     324.308635      5.851353 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            5033960575837265920      15.825567    -27.880692 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 0     STELIB       none
            1821608708141030784     298.432200     18.792679 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            1821608708141023488     298.427234     18.785658 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
-           2638410646295370880     347.297505     -2.261178 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            2638410646295370880     347.297505     -2.261178 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            1821620463505562880     298.423203     18.795276 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            2806529032199025536      10.400673     24.628954 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
@@ -1440,11 +1375,8 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            4688993402542368512      14.094076    -72.476621 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            5142929531133360768      27.144671    -15.556816 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            3219618436972965248      87.191515      0.725572 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           3219618436972965248      87.191515      0.725572 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            3232901636947366656      71.687246      2.700596 9       none 9       none 9       none 9       none 9       none 1        xsl 9       none 9       none 9       none       none
            5142632388116286336      27.919480    -16.319226 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
-           2833458442785266560     341.493560     19.250299 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-           2833458442785266560     341.493560     19.250299 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            2833458442785266560     341.493560     19.250299 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
             102082477749475200      39.241295     24.648009 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
              64929391436043264      57.420605     23.341370 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
@@ -1470,13 +1402,11 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            3034578464047878272     111.666917    -11.587139 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            3053492881541641600     113.023598     -8.882072 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            3085071164726715648     114.959629     -1.523413 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
-           3085071164726715648     114.959629     -1.523413 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
            3144388305214624896     118.782990      6.995891 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            3088259988963761024     119.626399      2.935820 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            3114203545639392000     103.741361      2.042821 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            3430863585931719680      89.273143     27.316604 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 0     STELIB       none
            3137401591716802432     116.647256      4.130598 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
-            595977294151338624     126.750039      7.221116 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
             595977294151338624     126.750039      7.221116 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            3092651163524103424     126.983940      4.821382 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
            5525081496202448000     130.177683    -42.340709 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 9       none 9       none       none
@@ -1485,7 +1415,6 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
             661324431287688448     130.026574     20.007734 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
             588856788129452160     142.315722      8.632091 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
             581201571564630784     132.337134      3.684028 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
-            685042030968334592     134.731843     21.166087 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
             685042030968334592     134.731843     21.166087 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            3926664989851681152     179.426255     17.467844 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 0      MILES 9       none       none
            3989999608389935360     161.981534     23.334924 9       none 9       none 9       none 9       none 9       none 0        xsl 9       none 1      MILES 9       none       none
@@ -1617,24 +1546,6 @@ source_id                RA                DEC  BFcalspec calspec BFDAWD      DA
            3604079616975432960     200.754411    -17.735405 9       none 9       none 9       none 9       none 9       none 9       none 1     INDOUS 9       none 9       none       none
              93806419367307904      28.382946     19.295478 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
            1563590579347125632     200.982373     54.925259 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
-                          none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
-                          none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
-                          none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
-                          none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
-                          none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
-                          none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
-                          none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
-                          none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
-                          none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
-                          none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
-                          none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
-                          none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
-                          none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
-                          none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
-                          none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
-                          none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
-                          none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
-                          none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
                           none       0.000000      0.000000 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
            3604865252393354112     201.862621    -15.973489 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
            3740176925743994752     202.106456     13.776229 9       none 9       none 9       none 9       none 9       none 9       none 0     INDOUS 9       none 9       none       none
