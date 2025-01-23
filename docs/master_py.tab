@@ -1,4 +1,4 @@
-source_id                RA                DEC  BFcalspec calspec BFdawd      dawd BFngsl ngsl BFspss spss BFuves uves BFxsl xsl BFindo indo BFmiles miles BFstelib stelib PVL
+source_id                RA                DEC  BFcalspec calspec BFDAWD      DAWD BFNGSL NGSL BFSPSS SPSS BFUVES UVES BFxsl xsl BFINDOUS INDOUS BFMILES MILES BFSTELIB STELIB PVL
            3655377057091634304     221.561669      1.892793 0    calspec 9       none 9       none 9       none 9       none 9       none 9       none 9       none 0     STELIB       none
            1908095850396090880     339.815318     39.050245 0    calspec 9       none 9       none 9       none 9       none 9       none 9       none 9       none 9       none        PVL
            2135550755683407232     295.465613     50.516802 0    calspec 9       none 9       none 9       none 9       none 9       none 9       none 1      MILES 9       none       none
