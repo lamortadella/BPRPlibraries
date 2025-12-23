@@ -1,4 +1,8 @@
 <html>
+
+<div id="content">
+  <br>
+
 <br>  
 <a href="note.pdf">PDF: Summary of the work done</a>
 <br> 
@@ -268,6 +272,23 @@ the flags BPcalspec, BFdawd etc,....
 <br> CRO = lie in a very crowded field (ad judged from the
 DSS Simbad stamp image) - non indicato se già si 
 applica un’altra flag
+<\div>
+
+<!-- MD5 library for hashing -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/blueimp-md5/2.19.0/js/md5.min.js"></script>
+
+<script>
+  /* ONLY the hash is stored - corresponds to "pippo" */
+  const hash = "d27b45db2f5dc08701afd958ea102ad1"; 
+
+  const pw = prompt("Enter access code:");
+
+  if (pw !== null && md5(pw) === hash) {
+    document.getElementById("content").style.display = "block";
+  } else {
+    document.body.innerHTML = "<h2>Access denied</h2><p>Incorrect code or canceled.</p>";
+  }
+</script>
 
 
 </html>
